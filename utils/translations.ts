@@ -44,7 +44,7 @@ export const translations = {
       items: {
         nurvakti: { category: 'Mobile App', desc: 'A prayer times application that provides accurate adhan times, qibla direction, and daily prayers with a clean and intuitive interface.', features: ['Accurate Prayer Times', 'Qibla Compass', 'Prayer Reminders', 'Clean Interface'] },
         opinion: { category: 'Social App', desc: 'A fun and interactive social voting app where you swipe to share your thoughts on trending questions. Vote, compare, create polls, and discover what the world thinks!', features: ['Swipe to Vote', 'Compare Mode', 'Custom Polls', 'Global Community'] },
-        futbolapi: { category: 'REST API', desc: 'A comprehensive football data API serving Turkish league data including standings, fixtures, player stats, transfers, and squad information.', features: ['30+ Endpoints', 'Player & Team Stats', 'Live Standings & Fixtures', 'Transfer Data'] },
+        bunual: { category: 'Comparison Platform', desc: 'A comprehensive smartphone comparison and rating platform. Browse 2000+ phone models across 76 brands, compare detailed specs across 7 key metrics, check bunuAl scores, and make informed decisions based on independent and unbiased data.', features: ['2000+ Phone Models', 'Smart Rating System', 'Detailed Comparisons', 'Independent & Unbiased'] },
       }
     },
     ai: {
@@ -131,7 +131,7 @@ export const translations = {
       items: {
         nurvakti: { category: 'Mobil Uygulama', desc: 'Doğru ezan vakitlerini, kıble yönünü ve günlük duaları temiz ve sezgisel bir arayüzle sunan namaz vakitleri uygulaması.', features: ['Doğru Namaz Vakitleri', 'Kıble Pusulası', 'Namaz Hatırlatıcıları', 'Sade Arayüz'] },
         opinion: { category: 'Sosyal Uygulama', desc: 'Trend sorularda kaydırarak oyunu paylaştığın eğlenceli ve interaktif bir sosyal oylama uygulaması. Oy ver, karşılaştır, anket oluştur ve dünyanın ne düşündüğünü keşfet!', features: ['Kaydır & Oyla', 'Karşılaştırma Modu', 'Özel Anketler', 'Global Topluluk'] },
-        futbolapi: { category: 'REST API', desc: 'Türk ligi verilerini sunan kapsamlı bir futbol veri API\'si. Puan durumu, fikstür, oyuncu istatistikleri, transferler ve kadro bilgilerini içerir.', features: ['30+ Endpoint', 'Oyuncu & Takım İstatistikleri', 'Canlı Puan Durumu & Fikstür', 'Transfer Verileri'] },
+        bunual: { category: 'Karşılaştırma Platformu', desc: 'Kapsamlı bir akıllı telefon karşılaştırma ve puanlama platformu. 76 marka arasında 2000+ telefon modeline göz at, 7 temel metrikte detaylı spesifikasyonları karşılaştır, bunuAl puanlarını incele ve bağımsız veriler üzerinden bilinçli kararlar al.', features: ['2000+ Telefon Modeli', 'Akıllı Puanlama Sistemi', 'Detaylı Karşılaştırmalar', 'Bağımsız & Tarafsız'] },
       }
     },
     ai: {

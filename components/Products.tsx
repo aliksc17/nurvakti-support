@@ -45,14 +45,14 @@ const Products: React.FC = () => {
       ]
     },
     {
-      title: "Futbol API",
-      category: t.products.items.futbolapi.category,
-      description: t.products.items.futbolapi.desc,
+      title: "bunuAl",
+      category: t.products.items.bunual.category,
+      description: t.products.items.bunual.desc,
       image: "/thracian.png",
-      features: t.products.items.futbolapi.features,
+      features: t.products.items.bunual.features,
       color: "emerald",
       links: [
-        { label: t.products.viewDocs, url: "https://futbol.thraciansoft.xyz/docs" }
+        { label: t.products.viewDetails, url: "https://www.bunual.shop/" }
       ]
     }
   ];
